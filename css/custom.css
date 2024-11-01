@@ -1,0 +1,13 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.header {
+    background-color: rgba(60, 71, 170, 0.74);
+    color: #fff;
+    text-align: center;
+}
+
+.content {
+    background-color: rgba(60, 17, 109, 0.74);
+}
